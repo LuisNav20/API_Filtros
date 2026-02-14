@@ -1,0 +1,28 @@
+section {
+    background-color: #4e4a66;
+    padding: 20px 0;
+}
+
+span{
+    width: 30px;
+    height: 30px;
+    display: inline-block;
+    border-radius: 50%;
+    margin: 2px;
+}
+
+img{
+    height: 300px !important;
+}
+
+.card{
+    margin-left: 6%;
+}
+.btn{
+    border-radius: 20px;
+    background-color: rgb(133, 195, 184);
+    border: rgb(133, 195, 184);
+}
+#tarjetas{
+    box-shadow: 4px 3px 1px rgb(0, 0, 0);
+}
